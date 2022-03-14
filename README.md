@@ -39,3 +39,9 @@ Then the permissions need to be assigned using `https://<tenant>-admin.sharepoin
  ```
 - Click on "Create"
 - Click on "Trust"
+
+
+# 
+```sh
+$ npm install -g azure-functions-core-tools@3 --unsafe-perm true
+```

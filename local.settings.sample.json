@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SiteUrl": "<SharePoint Site to obtain the ClientContext for>",
+    "TenantId": "Tenant Id of the AAD App Registration>",
+    "ClientId": "<App/Client Id for AAD App Registration>",
+    "CertificateThumbprint": "<Client Certificate Hash for AAD App Registration>",
+    "DelegateAppId": "<SharePoint Proxy AddIn Id>",
+    "DelegateAppSecret": "<SharePoint Proxy AddIn Secret>"
+  }
+}
